@@ -1,4 +1,4 @@
-# Multi-Node-Message-Transfer
+# FANS Extended
 This repository provides a modular and scalable codebase for Ad-hoc message transfer among multiple nodes, implemented using NS-3. It also includes integration with ROS for testing real-world networking scenarios, particularly those involving UAVs. The stack was initially developed and tested on a Jetson Nano running Ubuntu 18.04 Bionic, and all associated installations are designed to ensure compatibility with Ubuntu 18.04 LTS.
 
 Future developments will focus on enhancing support for Ubuntu 22.04 or later, with a specific emphasis on adapting the code to work with ROS 2 and integrating it with the NS-3 simulator.
