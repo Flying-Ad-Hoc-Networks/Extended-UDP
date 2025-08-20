@@ -90,6 +90,31 @@ Using NS-3 packages in your scripts requires you to have them inside the `ns-3-d
   * root_controller in control_scripts subscribes to said topic and finds out what mode previous UAV has changed to.
   * root_controller changes mode of UAV(X) to the received mode until another change in mode is discovered.
 
+## Contributors
+* [Subhodeep Choudhury](https://github.com/SnyprDragun)
+* [Nitya Ahuja](https://github.com/nitya-ahuja)
+
+## Acknowledgement
+This work is supported by the Science and Engineering Research Board (SERB-SRG/2019/001204), Government of India.
+
+## Related Publication
+| Field        | Details           |
+| ------------- |:-------------:|
+| *Title*| Hardware Implementation of FANET Using FANS|
+| *Authors*| [Subhodeep Choudhury](https://github.com/SnyprDragun) [Nitya Ahuja](https://github.com/nitya-ahuja) [Abhishek Joshi](https://github.com/abhijoshi2008) [Sarang C. Dhongdi](https://github.com/Sarang-BITS)|
+| *Publishing Organization*| ACM|
+| *Published in*| International Conference on ns-3 (ICNS3)|
+| *Conference / Journal*| Conference|
+| *Dates*| 19th August - 21st August 2025|
+| *Location*| Ibaraki Osaka Japan|
+| *Hosted by*| Ritsumeikan University, Osaka Ibaraki Campus|
+| *Co-Hosted by*| Tokushima University Japan|
+| *Submitted*| 4th April 2025|
+| *Accepted*| 2nd June 2025|
+| *Published*| 18th August 2025|
+| *DOI*| [10.1145/3747204.3747223](https://dl.acm.org/doi/10.1145/3747204.3747223)|
+| *ISBN*| 979-8-4007-1517-4|
+| *Location*| On Page(s): 162-167|
 
 
 
